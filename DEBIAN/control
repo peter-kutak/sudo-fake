@@ -6,4 +6,4 @@ Architecture: all
 Provides: sudo
 Maintainer: mail@example.org
 Description: sudo fake
- akoze mam nainstalovane sudo
+ dummy sudo package
