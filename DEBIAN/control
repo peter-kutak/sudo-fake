@@ -1,6 +1,6 @@
 Package: sudo-fake
-Version: 100.0.1
-Section: development
+Version: 100.0.2
+Section: admin
 Priority: optional
 Architecture: all
 Provides: sudo
