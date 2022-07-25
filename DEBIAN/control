@@ -1,9 +1,10 @@
 Package: sudo-fake
-Version: 100.0.2
+Version: 100.0.3
 Section: admin
 Priority: optional
 Architecture: all
-Provides: sudo
+Provides: sudo (= 1.9)
+Replaces: sudo
 Maintainer: mail@example.org
 Description: sudo fake
  dummy sudo package
